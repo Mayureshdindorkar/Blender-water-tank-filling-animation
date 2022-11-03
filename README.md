@@ -1,1 +1,1 @@
-# Miniprojects
+# Blender Miniproject
